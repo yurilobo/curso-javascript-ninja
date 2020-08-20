@@ -30,14 +30,15 @@ const comida = ['arroz','feijão','ovo']
 console.log(comida[1])
 
 // Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
-
+var 
 
 // Digite o código que verifica se a variável `myvar` é menor ou igual à variável `soma`.
-?
-
+mayvar == soma
 // Crie uma função chamada `divisao` que receba como parâmetro dois números, e retorne o resultado da divisão entre eles.
-?
-
+function divisao(a,b){
+  divisao =a/b
+  return divisao
+  }
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
 ?
 ```
